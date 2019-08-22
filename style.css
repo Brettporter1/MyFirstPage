@@ -53,6 +53,13 @@ h2{
 }
 
 #contact-info a {
-    text-decoration:udnerline;
+    text-decoration:none;
     color:#333;
+    font-style:italic;
+}
+
+#contact-info a:hover{
+    text-decoration:underline;
+    font-weight: 700;
+    font-style:normal;
 }
