@@ -5,7 +5,7 @@ body{
     line-height:150%;
     color:#333;
     background:#efeee7;
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-family:Arial, Helvetica, sans-serif;
 }
 
 header {
@@ -18,6 +18,7 @@ h1 {
     margin:0px 0px 20px;
     font-size:20px;
     text-align:center;
+    
 }
 
 h2{
@@ -44,4 +45,14 @@ h2{
 
 #contact-info{
     width:30%;
+}
+
+#contact-info ul{
+    list-style:none;
+    padding:0;
+}
+
+#contact-info a {
+    text-decoration:udnerline;
+    color:#333;
 }
