@@ -9,7 +9,7 @@ body{
 }
 
 header {
-    background:#333;
+    background:#64a2b4;
 }
 
 h1 {
@@ -18,7 +18,7 @@ h1 {
     margin:0px 0px 20px;
     font-size:20px;
     text-align:center;
-    
+    border-bottom:5px solid #7c0101;
 }
 
 h2{
